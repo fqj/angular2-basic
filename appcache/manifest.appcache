@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:2017-1-31 10:47:22
+#ver:2017-1-31 11:35:59
 #plugin:4.5.5
 
 CACHE:
@@ -8,22 +8,22 @@ CACHE:
 ../vendor.36d14555919f4aa8fa77.bundle.js
 ../main.ea00965875881d17218f.bundle.js
 ../polyfills.03944e8a1b655d4c7645.bundle.js
-../assets/css/app.css
-../assets/fonts/material-icons.woff
 ../assets/fonts/roboto.woff
+../assets/css/app.css
 ../assets/img/angular_whiteTransparent.png
-../assets/img/background.jpg
+../assets/fonts/material-icons.woff
 ../assets/img/angular-logo.png
-../assets/img/favicon-16x16.png
+../assets/img/background.jpg
 ../assets/img/favicon-32x32.png
+../assets/img/favicon-16x16.png
 ../assets/img/frontstack-logo.png
 ../assets/img/github.svg
-../assets/img/social_logos/logo_facebook.png
 ../assets/img/social_logos/linkedin.png
+../assets/img/social_logos/logo_facebook.png
 ../assets/img/social_logos/logo_github_black.png
 ../assets/img/social_logos/logo_github.png
-../assets/img/social_logos/logo_youtube.png
 ../assets/img/social_logos/logo_twitter.png
+../assets/img/social_logos/logo_youtube.png
 ../assets/img/team/arturo-min.jpg
 ../assets/img/team/david-min.jpg
 ../assets/img/team/fran-min.jpg
@@ -38,11 +38,11 @@ CACHE:
 ../assets/img/techs/npm.png
 ../assets/img/techs/protractor.png
 ../assets/img/techs/sass.png
-../assets/img/techs/tslint.png
 ../assets/img/techs/ts.png
+../assets/img/techs/tslint.png
 ../assets/img/techs/typedoc.png
-../assets/img/techs/yarn.png
 ../assets/img/techs/webpack.png
+../assets/img/techs/yarn.png
 ../assets/manifest.json
 ../assets/mock-data/mockusers.json
 ../assets/service-worker.js
