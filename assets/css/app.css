@@ -9,14 +9,14 @@ html, body {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: local('Roboto'), local('Roboto-Regular'), url(/assets/fonts/roboto.woff) format('woff');
+  src: local('Roboto'), local('Roboto-Regular'), url(../fonts/roboto.woff) format('woff');
 }
 
 @font-face {
   font-family: 'Material Icons';
   font-style: normal;
   font-weight: 400;
-  src: local('Material Icons'), local('MaterialIcons-Regular'), url(/assets/fonts/material-icons.woff) format('woff');
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url(../fonts/material-icons.woff) format('woff');
 }
 
 .material-icons {
