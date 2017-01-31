@@ -1,64 +1,47 @@
-{
-  "users" : [{
-      "name": "David Chavarri",
-      "job": "Front Architect",
-      "image": "./assets/img/team/david-min.jpg",
-      "description": "React Ninja",
-      "github": "https://github.com/DvdChavarri"
-    },
-    {
-      "name": "Arturo Zarzalejo",
-      "job": "Fantasy Architect",
-      "image": "./assets/img/team/arturo-min.jpg",
-      "description": "Sexy Fantasy Everywhere",
-      "github": "https://github.com/Arturozh"
-    },
-    {
-      "name": "Jose Bermudo",
-      "job": "Front Architect",
-      "image": "./assets/img/team/josh-min.jpg",
-      "description": "Sorcerer code level 20",
-      "github": "https://github.com/josemanuelbd"
-    },
-    {
-      "name": "Jesus Cuesta",
-      "job": "Product Owner",
-      "image": "./assets/img/team/jesus-min.png",
-      "description": "Dragon killer",
-      "github": "https://github.com/jesuscuesta"
-    },
-    {
-      "name": "Maximo Garcia",
-      "job": "Front Architect",
-      "image": "./assets/img/team/max-min.jpg",
-      "description": "Sexy Code Hunter",
-      "github": "https://github.com/maxgarsaiz"
-    },
-    {
-      "name": "Oscar Galea",
-      "job": "Front Architect",
-      "image": "./assets/img/team/oscar-min.png",
-      "description": "Runner code",
-      "github": "https://github.com/ogaleac"
-    },
-    {
-      "name": "Juan Carlos Díez",
-      "job": "Front Architect",
-      "image": "./assets/img/team/jc-min.jpg",
-      "description": "Pixel Hunter",
-      "github": "https://github.com/jcdevelopmentspain"
-    },
-    {
-      "name": "Luis Martinez",
-      "job": "Front Architect",
-      "image": "./assets/img/team/luis-min.jpg",
-      "description": "React Ninja"
-    },
-    {
-      "name": "Francisco Quintero Japón",
-      "job": "Front Architect",
-      "image": "./assets/img/team/fran-min.png",
-      "description": "Samurai"
-    }
-  ]
-}
+[
+  {
+    "title": "David Chavarri",
+    "image": "/assets/img/team/david-min.jpg",
+    "description": "React Ninja"
+  },
+  {
+    "title": "Arturo Zarzalejo",
+    "image": "/assets/img/team/arturo-min.jpg",
+    "description": "Sexy Fantasy"
+  },
+  {
+    "title": "José Bermudo",
+    "image": "/assets/img/team/josh-min.jpg",
+    "description": "Sorcerer code level 20"
+  },
+  {
+    "title": "Jesús Cuesta",
+    "image": "/assets/img/team/jesus-min.jpg",
+    "description": "Dragon killer"
+  },
+  {
+    "title": "Máximo García",
+    "image": "/assets/img/team/max-min.jpg",
+    "description": "Sexy Code Hunter"
+  },
+  {
+    "title": "Oscar Galea",
+    "image": "/assets/img/team/oscar-min.jpg",
+    "description": "Runner code"
+  },
+  {
+    "title": "Juan Carlos Díez",
+    "image": "/assets/img/team/jc-min.jpg",
+    "description": "Pixel Hunter"
+  },
+  {
+    "title": "Luis Martínez",
+    "image": "/assets/img/team/luis-min.jpg",
+    "description": "React Ninja"
+  },
+  {
+    "title": "Fran Quintero",
+    "image": "/assets/img/team/fran-min.jpg",
+    "description": "Samurai"
+  }
+]

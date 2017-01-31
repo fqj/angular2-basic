@@ -1,6 +1,8 @@
 {
   "HOME": {
-    "TITLE": "Bienvenido a Angular Basic by FrontStack",
+    "TITLE": "Angular2 Basic",
+    "SLOGAN": "by Serenity FrontStack",
+    "DEVELOPED": "Desarrollado por FrontStack",
     "SELECT": "Change language"
   },
    "ABOUT": {
