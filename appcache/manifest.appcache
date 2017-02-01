@@ -1,18 +1,18 @@
 CACHE MANIFEST
-#ver:2017-2-1 10:57:06
+#ver:2017-2-1 15:29:05
 #plugin:4.5.5
 
 CACHE:
 ../0.1a9cf30c23ffc7a2425f.chunk.js
 ../1.a86ec09b1b296c350420.chunk.js
 ../vendor.36d14555919f4aa8fa77.bundle.js
-../main.ea00965875881d17218f.bundle.js
+../main.c7c77ebe5b2aa93969e4.bundle.js
 ../polyfills.03944e8a1b655d4c7645.bundle.js
 ../assets/css/app.css
 ../assets/fonts/material-icons.woff
 ../assets/fonts/roboto.woff
-../assets/img/angular_whiteTransparent.png
 ../assets/img/angular-logo.png
+../assets/img/angular_whiteTransparent.png
 ../assets/img/background.jpg
 ../assets/img/favicon-16x16.png
 ../assets/img/favicon-32x32.png
@@ -30,24 +30,24 @@ CACHE:
 ../assets/img/team/jc-min.jpg
 ../assets/img/team/jesus-min.jpg
 ../assets/img/team/josh-min.jpg
-../assets/img/team/luis-min.jpg
 ../assets/img/team/max-min.jpg
-../assets/img/techs/angular2.png
 ../assets/img/team/oscar-min.jpg
+../assets/img/team/luis-min.jpg
+../assets/img/techs/angular2.png
 ../assets/img/techs/karma.png
 ../assets/img/techs/npm.png
 ../assets/img/techs/protractor.png
 ../assets/img/techs/sass.png
-../assets/img/techs/tslint.png
 ../assets/img/techs/ts.png
-../assets/img/techs/typedoc.png
+../assets/img/techs/tslint.png
 ../assets/img/techs/webpack.png
+../assets/img/techs/typedoc.png
 ../assets/img/techs/yarn.png
 ../assets/manifest.json
 ../assets/mock-data/mockusers.json
 ../assets/service-worker.js
-../robots.txt
 ../humans.txt
+../robots.txt
 ../i18n/en.json
 ../i18n/es.json
 ../
