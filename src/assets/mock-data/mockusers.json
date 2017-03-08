@@ -2,12 +2,7 @@
   {
     "title": "David Chavarri",
     "image": "./assets/img/team/david-min.jpg",
-    "description": "React Ninja"
-  },
-  {
-    "title": "Arturo Zarzalejo",
-    "image": "./assets/img/team/arturo-min.jpg",
-    "description": "Sexy Fantasy"
+    "description": "BlockChain Lover"
   },
   {
     "title": "José Bermudo",
@@ -43,5 +38,10 @@
     "title": "Fran Quintero",
     "image": "./assets/img/team/fran-min.jpg",
     "description": "Samurai"
+  },
+  {
+    "title": "Arturo Zarzalejo",
+    "image": "./assets/img/team/arturo-min.jpg",
+    "description": "Sexy Fantasy"
   }
 ]

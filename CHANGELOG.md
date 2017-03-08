@@ -1,5 +1,10 @@
 # Changelog
-* (26-1-2017) Angular2-Basic v1.0.0-rc0 **latest** 
+* (8-2-2017) Angular2-Basic v1.0.0-rc1 **latest** 
+    * Fixed url path on css.
+    * Updated dependencies
+    * Angular 2.4.6
+    * Added animations
+* (26-1-2017) Angular2-Basic v1.0.0-rc0
     * AOT ready
         * Save up to ~40% of app weight
     * Updated to Webpack 2.2.0

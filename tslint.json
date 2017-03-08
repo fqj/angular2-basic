@@ -126,7 +126,6 @@
       "check-separator",
       "check-type"
     ],
-    "import-destructuring-spacing": true,
     "cyclomatic-complexity": [true, 10],
     "one-variable-per-declaration": true,
     "no-inner-declarations": [
